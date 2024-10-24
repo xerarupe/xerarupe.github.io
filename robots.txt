@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://xerarupe.github.io/sitemap/sitemap_index.xerarupe
+Sitemap: https://xerarupe.github.io/Zsk/sitemap_index.xerarupe
+Sitemap: https://xerarupe.github.io/apF/sitemap_index.xerarupe
+Sitemap: https://xerarupe.github.io/xgj/sitemap_index.xerarupe
+Sitemap: https://xerarupe.github.io/PVW/sitemap_index.xerarupe
+Sitemap: https://xerarupe.github.io/HoF/sitemap_index.xerarupe
+Sitemap: https://xerarupe.github.io/skF/sitemap_index.xerarupe
+Sitemap: https://xerarupe.github.io/JVi/sitemap_index.xerarupe
+Sitemap: https://xerarupe.github.io/unk/sitemap_index.xerarupe
+Sitemap: https://xerarupe.github.io/UGB/sitemap_index.xerarupe
+Sitemap: https://xerarupe.github.io/igL/sitemap_index.xerarupe
+Sitemap: https://xerarupe.github.io/uUk/sitemap_index.xerarupe
+Sitemap: https://xerarupe.github.io/Msl/sitemap_index.xerarupe
+Sitemap: https://xerarupe.github.io/HLP/sitemap_index.xerarupe
+Sitemap: https://xerarupe.github.io/Zgt/sitemap_index.xerarupe
+Sitemap: https://xerarupe.github.io/svj/sitemap_index.xerarupe
+Sitemap: https://xerarupe.github.io/EXt/sitemap_index.xerarupe
+Sitemap: https://xerarupe.github.io/pTO/sitemap_index.xerarupe
+Sitemap: https://xerarupe.github.io/FfX/sitemap_index.xerarupe
+Sitemap: https://xerarupe.github.io/SIx/sitemap_index.xerarupe
+Sitemap: https://xerarupe.github.io/axj/sitemap_index.xerarupe
